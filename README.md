@@ -1,5 +1,6 @@
-# webwoord_argief
+# automatic-engine
 
+# NEED TO UPDATE THIS README WITH CORRECT DETAILS
 
 ## Requirements
 - Python 3.7.5
